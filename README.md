@@ -1,5 +1,6 @@
 ### Hello!,I am Amit
-#### I’m currently a student pursuing a Bachelor’s degrees in Economics and Computer Science.
+#### I'm a student at Ben Gurion Univeresty, pursuing a Bachelor’s degrees in Economics and Computer Science.
+
 
 Skills: Java, c++, Python
 
