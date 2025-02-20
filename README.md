@@ -1,11 +1,11 @@
-### Hello!,I am Amit
-#### I'm a student at Ben Gurion Univeresty, pursuing a Bachelor’s degrees in Computer Science and Economics.
+### Hello! I'm Amit
 
+#### I'm a CS and Economics student, pursuing Bachelor degree at Ben-Gurion University.
 
-Skills: Java, c++, Python
+#### Additionally, I am a R&D developer at [CBG - Cyber Ben-Gurion](https://cyber.bgu.ac.il/).
 
-🌱 I’m currently improving my skills at Python by Udemy course: 100 Days of Code: The Complete Python Pro Bootcamp 
+**Skills:** Python, Java, JavaScript, Prompt Engineering.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/amit-ner-gaon/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/amit-ner-gaon/)  
 
